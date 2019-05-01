@@ -1,4 +1,4 @@
-#Empty Example script R - ArcGIS Toolbox
+#Empty Example script R - ArcGIS Toolbox.
 tool_exec <- function(in_params, out_params)
 {
   #Logging message
